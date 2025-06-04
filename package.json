@@ -1,0 +1,18 @@
+{
+  "name": "mbuttt",
+  "version": "1.0.0",
+  "description": "yayaya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "chalk": "^4.1.2",
+    "input": "latest",
+    "node-fetch": "^2.6.7",
+    "os": "^0.1.2",
+    "perf_hooks": "latest",
+    "telegram": "latest"
+  }
+}
