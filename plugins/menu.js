@@ -42,6 +42,7 @@ Information:
 
 commands:
  ▢ play
+ ▢ spotify
  ▢ broadcast
 `;
 
